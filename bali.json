@@ -1,0 +1,143 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hallo",
+        "hai",
+        "halo",
+        "hei",
+        "hi",
+        "pagi",
+        "siang",
+        "sore",
+        "malam"
+      ],
+      "responses": [
+        "Hai! Babot di sini. Mau tau informasi tentang apa nih?",
+        "Halo! Aku Babot, salam kenal ya! Mau tau tentang Bali, kan?",
+        "Helo! Dengan Babot disini. Lagi kepo sama Bali ya?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Dah",
+        "Dadah",
+        "Bye",
+        "Byee",
+        "Good bye",
+        "Selamat tinggal",
+        "Sampai jumpa",
+        "Bai",
+        "See you"
+      ],
+      "responses": [
+        "Bye!",
+        "Dadahh!",
+        "Good bye!",
+        "Dahh, semoga harimu menegangkan yaa!",
+        "Sampai jumpa lagi!",
+        "See u! Senang bisa membantu"
+      ]
+    },
+    {
+      "tag": "terimakasih",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Terima kasih",
+        "Makasih",
+        "Terima kasih banyak"
+      ],
+      "responses": [
+        "Macamaa :)"
+      ]
+    },
+    {
+      "tag": "daya_tarik",
+      "patterns": [
+        "apa yang menjadi daya tarik daerah Bali?"
+      ],
+      "responses": [
+        "faktor daya tarik daerah bali diantaranya, harga produk wisata, budaya dalam berbagai bentuk manifestasinya, keindahan pantai yang beragam, kenyamanan berwisata, citra Bali, keindahan alam, dan keramahan penduduk setempat."
+      ]
+    },
+    {
+      "tag": "bali_dewata",
+      "patterns": [
+        "Mengapa Bali disebut dengan pulau dewata?"
+      ],
+      "responses": [
+        "Pulau Bali terkenal dengan julukan sebagai Pulau Dewata karena kentalnya budaya Hindu, seperti banyaknya sesaji yang dipersembahkan untuk dewata penjaga di berbagai tempat di Bali."
+      ]
+    },
+    {
+      "tag": "larangan",
+      "patterns": [
+        "Larangan apa saja jika berada di Bali?"
+      ],
+      "responses": [
+        "Berikut larangan-larangan selama di Bali : 1. Menginjak atau melangkahi canang atau sesajen, 2. Memasuki area suci tanpa izin, 3. Berulah di tempat sakral, 4. Menyentuh atau memegang kepala warga Bali, 5. Keluar saat Nyepi, 6. Tidak sopan saat upacara adat, 7. Buang air sembarangan"
+      ]
+    },
+    {
+      "tag": "wisata",
+      "patterns": [
+        "Wisata apa yang populer di Bali?"
+      ],
+      "responses": [
+        "Objek wisata yang populer di Bali :1. Pura Tanah Lot, 2. Bali Zoo, 3. Pantai Kuta, 4. Pura Ulun Danu Beratan Bedugul, 5. Pantai Melasti"
+      ]
+    },
+    {
+      "tag": "makanan_khas",
+      "patterns": [
+        "Apa saja makanan khas dari Bali?",
+        "Di Bali makanan khasnya apa sih?"
+      ],
+      "responses": [
+        "Makanan khas dari Bali itu ada Ayam Betutu, Sate Lilit, Nasi Jinggo, Nasi Tepeng, Sate Plecing, Babi Guling, Lawar"
+      ]
+    },
+    {
+      "tag": "daerah_terkenal",
+      "patterns": [
+        "Daerah mana yang terkenal di Bali?",
+        "Kalo di Bali daerah mana yang terkenal?"
+      ],
+      "responses": [
+        "Daerah yang terkenal di Bali itu Denpasar, Ubud, Kuta, Seminyak, Canggu, Nusa Dua."
+      ]
+    },
+      {
+      "tag": "tempat_makan",
+      "patterns": [
+        "tempat makan di ubud yang instagramable?",
+        "Kalo di Bali tempat makan yang bagus dimana?"
+      ],
+      "responses": [
+        "Tempat makan yang bagus di Bali ada Clear Café Ubud, Folk Pool & Garden, kebun bistro, Wanna Jungle Pool & Bar, milk madu."
+      ]
+        {
+      "tag": "tari_kecak",
+      "patterns": [
+        "Dimana tempat menonton tari kecak di Bali?",
+        "Di Bali nonton tari kecak dimana sih?"
+      ],
+      "responses": [
+        "Tari kecak tuh ada beberapa tapi yang rekomendasi ada di Kecak Uluwatu, Kecak Garuda Wisnu Kencana, Kecak Pantai Pandawa, Kecak Pantai Melasti"
+      ]
+    },
+    {
+      "tag": "daerah_terkenal",
+      "patterns": [
+        "Mengapa di Bali dikenal sebagai pulau seribu pura?",
+        "kenapa Bali disebut pulau seribu pura?"
+      ],
+      "responses": [
+        "Karena Di hampir setiap sudut wilayah terdapat pura peribadatan, baik pura besar yang dipakai sebagai tempat upacara bersama maupun pura kecil di setiap rumah. Oleh karena itu, selain dikenal sebagai Pulau Seribu Pura."
+      ]
+    }
+  ]
+}
