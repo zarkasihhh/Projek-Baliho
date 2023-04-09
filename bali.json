@@ -60,7 +60,8 @@
         "apa yang menjadi daya tarik daerah Bali?"
       ],
       "responses": [
-        "faktor daya tarik daerah bali diantaranya, harga produk wisata, budaya dalam berbagai bentuk manifestasinya, keindahan pantai yang beragam, kenyamanan berwisata, citra Bali, keindahan alam, dan keramahan penduduk setempat."
+        "faktor daya tarik daerah bali diantaranya, harga produk wisata, budaya dalam berbagai bentuk manifestasinya, keindahan pantai yang beragam, kenyamanan berwisata, citra Bali, keindahan alam, dan keramahan penduduk setempat.",
+        "Bali merupakan tempat tujuan wisata yang banyak diminati wisatawan domestik maupun mancanegara. Keindahan alam, keunikan budaya, keamanan, kenyamanan, keramah-tamahan yang dimiliki Bali merupakan faktor penyebab kenapa orang ingin menghabiskan liburan di Bali. Bali yang dikenal dengan 	julukan Pulau Dewata dikenal dengan destinasi keindahan pantainya yang menawarkan ragam tempat wisata di Bali yang tak boleh dilewatkan. Mulai dari wisata alam, budaya, kuliner, hingga belanja bisa dilakukan di Pulau Dewata. Segala sudut Pulau Bali bisa dikatakan destinasi wisata karena 	keindahan dan keramahan warganya. Dalam satu hari, Anda bisa mencicipi kuliner khas, berkunjung ke desa wisata dan museum, menonton pertunjukan tari kecak, belanja di pasar seni, hingga menghabiskan sore di pantai untuk melihat sunset."
       ]
     },
     {
@@ -130,13 +131,30 @@
       ]
     },
     {
-      "tag": "daerah_terkenal",
+      "tag": "seribu_pura",
       "patterns": [
         "Mengapa di Bali dikenal sebagai pulau seribu pura?",
         "kenapa Bali disebut pulau seribu pura?"
       ],
       "responses": [
         "Karena Di hampir setiap sudut wilayah terdapat pura peribadatan, baik pura besar yang dipakai sebagai tempat upacara bersama maupun pura kecil di setiap rumah. Oleh karena itu, selain dikenal sebagai Pulau Seribu Pura."
+      ]
+    },
+        {
+      "tag": "bali_islandgod",
+      "patterns": [
+        "Kenapa Bali disebut The Island of God?"
+      ],
+      "responses": [
+        "Julukan The Island of Gods atau Pulau Dewata diberikan kepada Bali, karena kebanyakan masyarakatnya beragama Hindu yang mempercayai keberadaan Dewa atau disebut Dewata. Oleh karena itu, tidak mengherankan jika hampir berbagai tempat di Bali terdapat banyak sesaji, yang dipersembahkan untuk dewa penjaga."
+      ]
+        {
+      "tag": "komponen_budaya",
+      "patterns": [
+        "Emang yang mendukung komponen budaya dapat dijadikan produk untuk dikonsumsi oleh para  wisatawan apa?"
+      ],
+      "responses": [
+        "Komponen budaya tersebut meliputi: (1)situs arkeolog dan museum, (2)arsitektur, (3)seni (art), patung, kerajinan, festival budaya, (4)musik dan tari, (5)drama (teater, film), (6)bahasa dan sastra, (7)upacara agama, dan (8)budaya tradisional (Ardika, 2004: 23)."
       ]
     }
   ]
