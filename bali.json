@@ -94,8 +94,7 @@
     {
       "tag": "makanan_khas",
       "patterns": [
-        "Apa saja makanan khas dari Bali?",
-        "Di Bali makanan khasnya apa sih?"
+        "Apa saja makanan khas dari Bali?"
       ],
       "responses": [
         "Makanan khas dari Bali itu ada Ayam Betutu, Sate Lilit, Nasi Jinggo, Nasi Tepeng, Sate Plecing, Babi Guling, Lawar"
@@ -104,8 +103,7 @@
     {
       "tag": "daerah_terkenal",
       "patterns": [
-        "Daerah mana yang terkenal di Bali?",
-        "Kalo di Bali daerah mana yang terkenal?"
+        "Daerah mana yang terkenal di Bali?"
       ],
       "responses": [
         "Daerah yang terkenal di Bali itu Denpasar, Ubud, Kuta, Seminyak, Canggu, Nusa Dua."
@@ -114,8 +112,7 @@
     {
       "tag": "tempat_makan",
       "patterns": [
-        "tempat makan di ubud yang instagramable?",
-        "Kalo di Bali tempat makan yang bagus dimana?"
+        "tempat makan di ubud yang instagramable?"
       ],
       "responses": [
         "Tempat makan yang bagus di Bali ada Clear Café Ubud, Folk Pool & Garden, kebun bistro, Wanna Jungle Pool & Bar, milk madu."
@@ -124,8 +121,7 @@
     {
       "tag": "tari_kecak",
       "patterns": [
-        "Dimana tempat menonton tari kecak di Bali?",
-        "Di Bali nonton tari kecak dimana sih?"
+        "Dimana tempat menonton tari kecak di Bali?"
       ],
       "responses": [
         "Tari kecak tuh ada beberapa tapi yang rekomendasi ada di Kecak Uluwatu, Kecak Garuda Wisnu Kencana, Kecak Pantai Pandawa, Kecak Pantai Melasti"
@@ -134,8 +130,7 @@
     {
       "tag": "seribu_pura",
       "patterns": [
-        "Mengapa di Bali dikenal sebagai pulau seribu pura?",
-        "kenapa Bali disebut pulau seribu pura?"
+        "Mengapa di Bali dikenal sebagai pulau seribu pura?"
       ],
       "responses": [
         "Karena Di hampir setiap sudut wilayah terdapat pura peribadatan, baik pura besar yang dipakai sebagai tempat upacara bersama maupun pura kecil di setiap rumah. Oleh karena itu, selain dikenal sebagai Pulau Seribu Pura."
