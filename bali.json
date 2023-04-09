@@ -111,7 +111,7 @@
         "Daerah yang terkenal di Bali itu Denpasar, Ubud, Kuta, Seminyak, Canggu, Nusa Dua."
       ]
     },
-      {
+    {
       "tag": "tempat_makan",
       "patterns": [
         "tempat makan di ubud yang instagramable?",
@@ -120,7 +120,8 @@
       "responses": [
         "Tempat makan yang bagus di Bali ada Clear Café Ubud, Folk Pool & Garden, kebun bistro, Wanna Jungle Pool & Bar, milk madu."
       ]
-        {
+    },
+    {
       "tag": "tari_kecak",
       "patterns": [
         "Dimana tempat menonton tari kecak di Bali?",
@@ -140,7 +141,7 @@
         "Karena Di hampir setiap sudut wilayah terdapat pura peribadatan, baik pura besar yang dipakai sebagai tempat upacara bersama maupun pura kecil di setiap rumah. Oleh karena itu, selain dikenal sebagai Pulau Seribu Pura."
       ]
     },
-        {
+    {
       "tag": "bali_islandgod",
       "patterns": [
         "Kenapa Bali disebut The Island of God?"
@@ -148,7 +149,8 @@
       "responses": [
         "Julukan The Island of Gods atau Pulau Dewata diberikan kepada Bali, karena kebanyakan masyarakatnya beragama Hindu yang mempercayai keberadaan Dewa atau disebut Dewata. Oleh karena itu, tidak mengherankan jika hampir berbagai tempat di Bali terdapat banyak sesaji, yang dipersembahkan untuk dewa penjaga."
       ]
-        {
+    },
+    {
       "tag": "komponen_budaya",
       "patterns": [
         "Emang yang mendukung komponen budaya dapat dijadikan produk untuk dikonsumsi oleh para  wisatawan apa?"
@@ -157,5 +159,4 @@
         "Komponen budaya tersebut meliputi: (1)situs arkeolog dan museum, (2)arsitektur, (3)seni (art), patung, kerajinan, festival budaya, (4)musik dan tari, (5)drama (teater, film), (6)bahasa dan sastra, (7)upacara agama, dan (8)budaya tradisional (Ardika, 2004: 23)."
       ]
     }
-  ]
 }
