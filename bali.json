@@ -55,6 +55,16 @@
       ]
     },
     {
+      "tag": "ibukota",
+      "patterns": [
+        "Apa Ibukota Provinsi Bali?",
+        "Ibukota Provinsi Bali itu apa sih?"
+      ],
+      "responses": [
+        "Ibukota dari Provinsi Bali itu Denpasar."
+      ]
+    },
+    {
       "tag": "daya_tarik",
       "patterns": [
         "apa yang menjadi daya tarik daerah Bali?"
@@ -101,6 +111,15 @@
       ]
     },
     {
+      "tag": "minuman_khas",
+      "patterns": [
+        "Apa saja minuman khas dari Bali?"
+      ],
+      "responses": [
+        "Minuman khas dari Bali itu ada Es kuwut, Tuak manis, Es tambring, Kopi Bali"
+      ]
+    },
+    {
       "tag": "daerah_terkenal",
       "patterns": [
         "Daerah mana yang terkenal di Bali?"
@@ -134,6 +153,123 @@
       ],
       "responses": [
         "Karena Di hampir setiap sudut wilayah terdapat pura peribadatan, baik pura besar yang dipakai sebagai tempat upacara bersama maupun pura kecil di setiap rumah. Oleh karena itu, selain dikenal sebagai Pulau Seribu Pura."
+      ]
+    },
+    {
+      "tag": "ngaben",
+      "patterns": [
+        "Apa itu upacara keagamaan ngaben?"
+      ],
+      "responses": [
+        "Dalam buku Kebudayaan dan Pariwisata Bali yang ditulis oleh Reni Widiastuti menjelaskan bahwa Ngaben merupakan upacara pembakaran mayat, yang dilakukan oleh umat beragama Hindu."
+      ]
+    },
+    {
+      "tag": "tujuan_ngaben",
+      "patterns": [
+        "Apa tujuan dari upacara keagamaan ngaben?"
+      ],
+      "responses": [
+        "Tujuan upacara ngaben adalah untuk mensucikan roh umat Hindu yang sudah meninggal dunia dan mempercepat kembalinya jasad ke alam asalnya."
+      ]
+    },
+    {
+      "tag": "canang_sari",
+      "patterns": [
+        "Apa yang Dimaksud dengan Canang Sari?"
+      ],
+      "responses": [
+        "Canang Sari adalah sebuah bentuk persembahan khas Bali yang biasanya ditemukan di depan rumah, toko, atau tempat-tempat suci. Persembahan ini terdiri dari bahan-bahan alami seperti beras, bunga dan dupa. Nantinya semua itu ditempatkan di atas sebuah wadah kecil yang dibuat dari daun kelapa atau daun pisang"
+      ]
+    },
+    {
+      "tag": "hindu_bali",
+      "patterns": [
+        "Apa yang Dimaksud dengan Agama hindu Bali?"
+      ],
+      "responses": [
+        "Agama Hindu Bali merupakan agama yang berkembang di Bali, dan merupakan perpaduan dari kepercayaan Hindu asli India dengan agama dan kepercayaan setempat di Bali. Ada beberapa unsur yang membedakan Agama Hindu Bali dengan Hindu di India, yaitu penekanan kepercayaan kepada roh leluhur."
+      ]
+    },
+    {
+      "tag": "mayoritas_agama",
+      "patterns": [
+        "Mayoritas agama di Bali itu apa si?"
+      ],
+      "responses": [
+        "Mayoritas agama yang ada di Bali itu Agama Hindu."
+      ]
+    },
+    {
+      "tag": "tradisi_pemeluk",
+      "patterns": [
+        "Apa saja tradisi para pemeluk agama hindu di Bali?"
+      ],
+      "responses": [
+        "Tradisinya ada upacara melasti, mecaru atau tawur, nyepi, pengerupukan, ngembak geni"
+      ]
+    },
+    {
+      "tag": "pohon_suci",
+      "patterns": [
+        "Apa nama pohon yang dianggap suci di pura Bali?"
+      ],
+      "responses": [
+        "Pohon beringin. Karena akar beringin kokoh, melambangkan keperkasaan, dan daunnya adalah lambang kesucian."
+      ]
+    },
+    {
+      "tag": "sembah",
+      "patterns": [
+        "Apa yang disembah masyarakat hindu di bali?"
+      ],
+      "responses": [
+        "Umat Hindu melaksanakan persembahyangan memuja Hyang Widhi Wasa dan segala prabhawa-Nya dan Atma Sidha Dewata (roh suci leluhur) di pura"
+      ]
+    },
+    {
+      "tag": "penemu",
+      "patterns": [
+        "Siapa penemu pulau Bali?"
+      ],
+      "responses": [
+        "Penemu pulau Bali itu Cornelis de Houtman."
+      ]
+    },
+    {
+      "tag": "rumah_adat",
+      "patterns": [
+        "Apa nama rumah adat Bali?"
+      ],
+      "responses": [
+        "Nama rumah adat Bali itu Bale Gede."
+      ]
+    },
+    {
+      "tag": "pakaian_adat",
+      "patterns": [
+        "Apa nama pakaian adat Bali?"
+      ],
+      "responses": [
+        "Nama pakaian adat Bali itu baju adat payas alit."
+      ]
+    },
+    {
+      "tag": "senjata_tradisional",
+      "patterns": [
+        "Apa nama senjata tradisional Bali?"
+      ],
+      "responses": [
+        "Nama senjata tradisional Bali itu Caluk."
+      ]
+    },
+    {
+      "tag": "hari_raya",
+      "patterns": [
+        "Apa nama hari raya agama Hindu di Bali?"
+      ],
+      "responses": [
+        "Hari Raya Galungan, dirayakan oleh Umat Hindu setiap enam bulan atau 210 hari sesuai perhitungan kalender Bali."
       ]
     }
   ]
