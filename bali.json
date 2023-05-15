@@ -67,7 +67,8 @@
     {
       "tag": "daya_tarik",
       "patterns": [
-        "apa yang menjadi daya tarik daerah Bali?"
+        "apa yang menjadi daya tarik daerah Bali?",
+        "hal yang menarik dari Bali itu apa?"
       ],
       "responses": [
         "faktor daya tarik daerah bali diantaranya, harga produk wisata, budaya dalam berbagai bentuk manifestasinya, keindahan pantai yang beragam, kenyamanan berwisata, citra Bali, keindahan alam, dan keramahan penduduk setempat.",
@@ -86,7 +87,8 @@
     {
       "tag": "larangan",
       "patterns": [
-        "Larangan apa saja jika berada di Bali?"
+        "Larangan apa saja jika berada di Bali?",
+        "kalo lagi di Bali apa aja si yang gaboleh dilakuin?"
       ],
       "responses": [
         "Berikut larangan-larangan selama di Bali : 1. Menginjak atau melangkahi canang atau sesajen, 2. Memasuki area suci tanpa izin, 3. Berulah di tempat sakral, 4. Menyentuh atau memegang kepala warga Bali, 5. Keluar saat Nyepi, 6. Tidak sopan saat upacara adat, 7. Buang air sembarangan"
@@ -95,7 +97,8 @@
     {
       "tag": "wisata",
       "patterns": [
-        "Wisata apa yang populer di Bali?"
+        "Wisata apa yang populer di Bali?".
+        "wisata yang bagus di Bali apa aja ya?"
       ],
       "responses": [
         "Objek wisata yang populer di Bali :1. Pura Tanah Lot, 2. Bali Zoo, 3. Pantai Kuta, 4. Pura Ulun Danu Beratan Bedugul, 5. Pantai Melasti"
@@ -104,7 +107,8 @@
     {
       "tag": "makanan_khas",
       "patterns": [
-        "Apa saja makanan khas dari Bali?"
+        "Apa saja makanan khas dari Bali?",
+        "Bali punya makanan khas ga si?"
       ],
       "responses": [
         "Makanan khas dari Bali itu ada Ayam Betutu, Sate Lilit, Nasi Jinggo, Nasi Tepeng, Sate Plecing, Babi Guling, Lawar"
