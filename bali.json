@@ -78,7 +78,8 @@
     {
       "tag": "bali_dewata",
       "patterns": [
-        "Mengapa Bali disebut dengan pulau dewata?"
+        "Mengapa Bali disebut dengan pulau dewata?",
+        "kok bisa bali disebut pulau dewata?"
       ],
       "responses": [
         "Pulau Bali terkenal dengan julukan sebagai Pulau Dewata karena kentalnya budaya Hindu, seperti banyaknya sesaji yang dipersembahkan untuk dewata penjaga di berbagai tempat di Bali."
@@ -117,7 +118,8 @@
     {
       "tag": "minuman_khas",
       "patterns": [
-        "Apa saja minuman khas dari Bali?"
+        "Apa saja minuman khas dari Bali?",
+        "Bali punya minuman khas ga si?"
       ],
       "responses": [
         "Minuman khas dari Bali itu ada Es kuwut, Tuak manis, Es tambring, Kopi Bali"
@@ -126,16 +128,18 @@
     {
       "tag": "daerah_terkenal",
       "patterns": [
-        "Daerah mana yang terkenal di Bali?"
+        "Daerah mana yang terkenal di Bali?",
+        "di Bali daerah yang terkenal dan rame ada dimana?"
       ],
       "responses": [
-        "Daerah yang terkenal di Bali itu Denpasar, Ubud, Kuta, Seminyak, Canggu, Nusa Dua."
+        "Daerah yang terkenal dan rame dikunjungi wisatawan di Bali itu Denpasar, Ubud, Kuta, Seminyak, Canggu, Nusa Dua."
       ]
     },
     {
       "tag": "tempat_makan",
       "patterns": [
-        "tempat makan di ubud yang instagramable?"
+        "tempat makan di ubud yang instagramable?",
+        "di Bali tempat makan yang bagus ada dimana aja?"
       ],
       "responses": [
         "Tempat makan yang bagus di Bali ada Clear Café Ubud, Folk Pool & Garden, kebun bistro, Wanna Jungle Pool & Bar, milk madu."
@@ -144,7 +148,8 @@
     {
       "tag": "tari_kecak",
       "patterns": [
-        "Dimana tempat menonton tari kecak di Bali?"
+        "Dimana tempat menonton tari kecak di Bali?",
+        "kalo mau nonton tari kecak dimana ya?"
       ],
       "responses": [
         "Tari kecak tuh ada beberapa tapi yang rekomendasi ada di Kecak Uluwatu, Kecak Garuda Wisnu Kencana, Kecak Pantai Pandawa, Kecak Pantai Melasti"
@@ -153,7 +158,8 @@
     {
       "tag": "seribu_pura",
       "patterns": [
-        "Mengapa di Bali dikenal sebagai pulau seribu pura?"
+        "Mengapa di Bali dikenal sebagai pulau seribu pura?",
+        "kok bisa bali disebut pulau seribu pura?"
       ],
       "responses": [
         "Karena Di hampir setiap sudut wilayah terdapat pura peribadatan, baik pura besar yang dipakai sebagai tempat upacara bersama maupun pura kecil di setiap rumah. Oleh karena itu, selain dikenal sebagai Pulau Seribu Pura."
@@ -162,7 +168,8 @@
     {
       "tag": "ngaben",
       "patterns": [
-        "Apa itu upacara keagamaan ngaben?"
+        "Apa itu upacara keagamaan ngaben?",
+        "upacara ngaben itu apa maksudnya?"
       ],
       "responses": [
         "Dalam buku Kebudayaan dan Pariwisata Bali yang ditulis oleh Reni Widiastuti menjelaskan bahwa Ngaben merupakan upacara pembakaran mayat, yang dilakukan oleh umat beragama Hindu."
@@ -171,7 +178,8 @@
     {
       "tag": "tujuan_ngaben",
       "patterns": [
-        "Apa tujuan dari upacara keagamaan ngaben?"
+        "Apa tujuan dari upacara keagamaan ngaben?",
+        "kalo tujuan dari upacara ngaben itu apa?"
       ],
       "responses": [
         "Tujuan upacara ngaben adalah untuk mensucikan roh umat Hindu yang sudah meninggal dunia dan mempercepat kembalinya jasad ke alam asalnya."
@@ -180,7 +188,8 @@
     {
       "tag": "canang_sari",
       "patterns": [
-        "Apa yang Dimaksud dengan Canang Sari?"
+        "Apa yang Dimaksud dengan Canang Sari?",
+        "canang sari itu maksudnya apa?"
       ],
       "responses": [
         "Canang Sari adalah sebuah bentuk persembahan khas Bali yang biasanya ditemukan di depan rumah, toko, atau tempat-tempat suci. Persembahan ini terdiri dari bahan-bahan alami seperti beras, bunga dan dupa. Nantinya semua itu ditempatkan di atas sebuah wadah kecil yang dibuat dari daun kelapa atau daun pisang"
@@ -189,7 +198,8 @@
     {
       "tag": "hindu_bali",
       "patterns": [
-        "Apa yang Dimaksud dengan Agama hindu Bali?"
+        "Apa yang Dimaksud dengan Agama hindu Bali?",
+        "hindu bali itu apa?"
       ],
       "responses": [
         "Agama Hindu Bali merupakan agama yang berkembang di Bali, dan merupakan perpaduan dari kepercayaan Hindu asli India dengan agama dan kepercayaan setempat di Bali. Ada beberapa unsur yang membedakan Agama Hindu Bali dengan Hindu di India, yaitu penekanan kepercayaan kepada roh leluhur."
@@ -198,7 +208,8 @@
     {
       "tag": "mayoritas_agama",
       "patterns": [
-        "Mayoritas agama di Bali itu apa si?"
+        "Mayoritas agama di Bali itu apa si?",
+        "agama yang banyak ada di Bali itu apa si?"
       ],
       "responses": [
         "Mayoritas agama yang ada di Bali itu Agama Hindu."
@@ -207,7 +218,8 @@
     {
       "tag": "tradisi_pemeluk",
       "patterns": [
-        "Apa saja tradisi para pemeluk agama hindu di Bali?"
+        "Apa saja tradisi para pemeluk agama hindu di Bali?",
+        "kalo tradisi dari pemeluk hindu bali apa?"
       ],
       "responses": [
         "Tradisinya ada upacara melasti, mecaru atau tawur, nyepi, pengerupukan, ngembak geni"
@@ -216,7 +228,8 @@
     {
       "tag": "pohon_suci",
       "patterns": [
-        "Apa nama pohon yang dianggap suci di pura Bali?"
+        "Apa nama pohon yang dianggap suci di pura Bali?",
+        "pohon yang suci di pura Bali itu apa?"
       ],
       "responses": [
         "Pohon beringin. Karena akar beringin kokoh, melambangkan keperkasaan, dan daunnya adalah lambang kesucian."
@@ -225,7 +238,8 @@
     {
       "tag": "sembah",
       "patterns": [
-        "Apa yang disembah masyarakat hindu di bali?"
+        "Apa yang disembah masyarakat hindu di bali?",
+        "yang disembah sama masyarakat hindu Bali itu apa?"
       ],
       "responses": [
         "Umat Hindu melaksanakan persembahyangan memuja Hyang Widhi Wasa dan segala prabhawa-Nya dan Atma Sidha Dewata (roh suci leluhur) di pura"
@@ -234,7 +248,8 @@
     {
       "tag": "penemu",
       "patterns": [
-        "Siapa penemu pulau Bali?"
+        "Siapa penemu pulau Bali?",
+        "penemu dari pulau Bali itu siapa si?"
       ],
       "responses": [
         "Penemu pulau Bali itu Cornelis de Houtman."
@@ -243,7 +258,8 @@
     {
       "tag": "rumah_adat",
       "patterns": [
-        "Apa nama rumah adat Bali?"
+        "Apa nama rumah adat Bali?",
+        "rumah adat yang ada di Bali namanya apa?"
       ],
       "responses": [
         "Nama rumah adat Bali itu Bale Gede."
@@ -252,7 +268,8 @@
     {
       "tag": "pakaian_adat",
       "patterns": [
-        "Apa nama pakaian adat Bali?"
+        "Apa nama pakaian adat Bali?",
+        "pakaian adat yang dipakai di Bali namanya apa?"
       ],
       "responses": [
         "Nama pakaian adat Bali itu baju adat payas alit."
@@ -261,7 +278,8 @@
     {
       "tag": "senjata_tradisional",
       "patterns": [
-        "Apa nama senjata tradisional Bali?"
+        "Apa nama senjata tradisional Bali?",
+        "senjata tradisional yang ada di Bali namanya apa?"
       ],
       "responses": [
         "Nama senjata tradisional Bali itu Caluk."
@@ -270,7 +288,8 @@
     {
       "tag": "hari_raya",
       "patterns": [
-        "Apa nama hari raya agama Hindu di Bali?"
+        "Apa nama hari raya agama Hindu di Bali?",
+        "kalo nama hari raya agama hindu bali itu apa?"
       ],
       "responses": [
         "Hari Raya Galungan, dirayakan oleh Umat Hindu setiap enam bulan atau 210 hari sesuai perhitungan kalender Bali."
