@@ -58,7 +58,8 @@
       "tag": "ibukota",
       "patterns": [
         "Apa Ibukota Provinsi Bali?",
-        "Ibukota Provinsi Bali itu apa sih?"
+        "Ibukota Provinsi Bali itu apa sih?",
+        "apa ibukota provinsi bali?"
       ],
       "responses": [
         "Ibukota dari Provinsi Bali itu Denpasar."
@@ -68,7 +69,8 @@
       "tag": "daya_tarik",
       "patterns": [
         "apa yang menjadi daya tarik daerah Bali?",
-        "hal yang menarik dari Bali itu apa?"
+        "hal yang menarik dari Bali itu apa?",
+        "yang menarik di bali apa?"
       ],
       "responses": [
         "faktor daya tarik daerah bali diantaranya, harga produk wisata, budaya dalam berbagai bentuk manifestasinya, keindahan pantai yang beragam, kenyamanan berwisata, citra Bali, keindahan alam, dan keramahan penduduk setempat.",
@@ -79,7 +81,8 @@
       "tag": "bali_dewata",
       "patterns": [
         "Mengapa Bali disebut dengan pulau dewata?",
-        "kok bisa bali disebut pulau dewata?"
+        "kok bisa bali disebut pulau dewata?",
+        "kenapa bali disebut pulau dewata?"
       ],
       "responses": [
         "Pulau Bali terkenal dengan julukan sebagai Pulau Dewata karena kentalnya budaya Hindu, seperti banyaknya sesaji yang dipersembahkan untuk dewata penjaga di berbagai tempat di Bali."
@@ -89,7 +92,8 @@
       "tag": "larangan",
       "patterns": [
         "Larangan apa saja jika berada di Bali?",
-        "kalo lagi di Bali apa aja si yang gaboleh dilakuin?"
+        "kalo lagi di Bali apa aja si yang gaboleh dilakuin?",
+        "di bali gaboleh ngapain aja?"
       ],
       "responses": [
         "Berikut larangan-larangan selama di Bali : 1. Menginjak atau melangkahi canang atau sesajen, 2. Memasuki area suci tanpa izin, 3. Berulah di tempat sakral, 4. Menyentuh atau memegang kepala warga Bali, 5. Keluar saat Nyepi, 6. Tidak sopan saat upacara adat, 7. Buang air sembarangan"
@@ -99,7 +103,8 @@
       "tag": "wisata",
       "patterns": [
         "Wisata apa yang populer di Bali?",
-        "wisata yang bagus di Bali apa aja ya?"
+        "wisata yang bagus di Bali apa aja?",
+        "wisata di bali yang bagus apa?"
       ],
       "responses": [
         "Objek wisata yang populer di Bali :1. Pura Tanah Lot, 2. Bali Zoo, 3. Pantai Kuta, 4. Pura Ulun Danu Beratan Bedugul, 5. Pantai Melasti"
@@ -109,7 +114,8 @@
       "tag": "makanan_khas",
       "patterns": [
         "Apa saja makanan khas dari Bali?",
-        "Bali punya makanan khas ga si?"
+        "Bali punya makanan khas ga si?",
+        "makanan khas bali apa?"
       ],
       "responses": [
         "Makanan khas dari Bali itu ada Ayam Betutu, Sate Lilit, Nasi Jinggo, Nasi Tepeng, Sate Plecing, Babi Guling, Lawar"
@@ -119,7 +125,8 @@
       "tag": "minuman_khas",
       "patterns": [
         "Apa saja minuman khas dari Bali?",
-        "Bali punya minuman khas ga si?"
+        "Bali punya minuman khas ga si?",
+        "minuman khas bali apa?"
       ],
       "responses": [
         "Minuman khas dari Bali itu ada Es kuwut, Tuak manis, Es tambring, Kopi Bali"
@@ -293,6 +300,16 @@
       ],
       "responses": [
         "Hari Raya Galungan, dirayakan oleh Umat Hindu setiap enam bulan atau 210 hari sesuai perhitungan kalender Bali."
+      ]
+    },
+    {
+      "tag": "ucapan",
+      "patterns": [
+        "bagaimana ucapan salam di Bali?",
+        "cara ngucapin salam di Bali gimana?"
+      ],
+      "responses": [
+        "Pengucapan salam di Bali dapat dengan Om Swastiastu karena kata ini kerap digunakan oleh masyarakat Bali saat bertemu dengan seseorang. Dapat diartikan sebagai kata “Halo” dalam bahasa Indonesia. Kata ini juga selalu digunakan dalam pembukaan acara resmi di Bali."
       ]
     }
   ]
