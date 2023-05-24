@@ -59,7 +59,8 @@
       "patterns": [
         "Apa Ibukota Provinsi Bali?",
         "Ibukota Provinsi Bali itu apa sih?",
-        "apa ibukota bali?"
+        "apa ibukota bali?",
+        "ibukota bali apa?"
       ],
       "responses": [
         "Ibukota dari Provinsi Bali itu Denpasar."
@@ -136,7 +137,8 @@
       "tag": "daerah_terkenal",
       "patterns": [
         "Daerah mana yang terkenal di Bali?",
-        "di Bali daerah yang terkenal dan rame ada dimana?"
+        "di Bali daerah yang terkenal dan rame ada dimana?",
+        "Dimana daerah yang terkenal dan populer di Bali?"
       ],
       "responses": [
         "Daerah yang terkenal dan rame dikunjungi wisatawan di Bali itu Denpasar, Ubud, Kuta, Seminyak, Canggu, Nusa Dua."
@@ -146,7 +148,9 @@
       "tag": "tempat_makan",
       "patterns": [
         "tempat makan di ubud yang instagramable?",
-        "di Bali tempat makan yang bagus ada dimana aja?"
+        "di Bali tempat makan yang bagus ada dimana aja?",
+        "rekomendasi tempat makan di Bali?",
+        "tempat makan yang populer di Bali?"
       ],
       "responses": [
         "Tempat makan yang bagus di Bali ada Clear Café Ubud, Folk Pool & Garden, kebun bistro, Wanna Jungle Pool & Bar, milk madu."
@@ -156,7 +160,9 @@
       "tag": "tari_kecak",
       "patterns": [
         "Dimana tempat menonton tari kecak di Bali?",
-        "kalo mau nonton tari kecak dimana ya?"
+        "kalo mau nonton tari kecak dimana ya?",
+        "dimana pagelaran tari kecak?",
+        "tempat melihat tari kecak?"
       ],
       "responses": [
         "Tari kecak tuh ada beberapa tapi yang rekomendasi ada di Kecak Uluwatu, Kecak Garuda Wisnu Kencana, Kecak Pantai Pandawa, Kecak Pantai Melasti"
@@ -166,7 +172,8 @@
       "tag": "seribu_pura",
       "patterns": [
         "Mengapa di Bali dikenal sebagai pulau seribu pura?",
-        "kok bisa bali disebut pulau seribu pura?"
+        "kok bisa bali disebut pulau seribu pura?",
+        "kenapa pulau bali disebut pulau seribu pura?"
       ],
       "responses": [
         "Karena Di hampir setiap sudut wilayah terdapat pura peribadatan, baik pura besar yang dipakai sebagai tempat upacara bersama maupun pura kecil di setiap rumah. Oleh karena itu, selain dikenal sebagai Pulau Seribu Pura."
@@ -176,7 +183,9 @@
       "tag": "ngaben",
       "patterns": [
         "Apa itu upacara keagamaan ngaben?",
-        "upacara ngaben itu apa maksudnya?"
+        "upacara ngaben itu apa maksudnya?",
+        "apa itu ngaben?",
+        "ngaben artinya apa?"
       ],
       "responses": [
         "Dalam buku Kebudayaan dan Pariwisata Bali yang ditulis oleh Reni Widiastuti menjelaskan bahwa Ngaben merupakan upacara pembakaran mayat, yang dilakukan oleh umat beragama Hindu."
@@ -186,7 +195,9 @@
       "tag": "tujuan_ngaben",
       "patterns": [
         "Apa tujuan dari upacara keagamaan ngaben?",
-        "kalo tujuan dari upacara ngaben itu apa?"
+        "kalo tujuan dari upacara ngaben itu apa?",
+        "kenapa dilakukan ngaben?",
+        "apa tujuan dilakukan ngaben?"
       ],
       "responses": [
         "Tujuan upacara ngaben adalah untuk mensucikan roh umat Hindu yang sudah meninggal dunia dan mempercepat kembalinya jasad ke alam asalnya."
@@ -196,7 +207,8 @@
       "tag": "canang_sari",
       "patterns": [
         "Apa yang Dimaksud dengan Canang Sari?",
-        "canang sari itu maksudnya apa?"
+        "canang sari itu maksudnya apa?",
+        "yang Dimaksud dengan Canang Sari apa?"
       ],
       "responses": [
         "Canang Sari adalah sebuah bentuk persembahan khas Bali yang biasanya ditemukan di depan rumah, toko, atau tempat-tempat suci. Persembahan ini terdiri dari bahan-bahan alami seperti beras, bunga dan dupa. Nantinya semua itu ditempatkan di atas sebuah wadah kecil yang dibuat dari daun kelapa atau daun pisang"
@@ -206,7 +218,8 @@
       "tag": "hindu_bali",
       "patterns": [
         "Apa yang Dimaksud dengan Agama hindu Bali?",
-        "hindu bali itu apa?"
+        "hindu bali itu apa?",
+        "apa si itu hindu bali?"
       ],
       "responses": [
         "Agama Hindu Bali merupakan agama yang berkembang di Bali, dan merupakan perpaduan dari kepercayaan Hindu asli India dengan agama dan kepercayaan setempat di Bali. Ada beberapa unsur yang membedakan Agama Hindu Bali dengan Hindu di India, yaitu penekanan kepercayaan kepada roh leluhur."
@@ -216,7 +229,8 @@
       "tag": "mayoritas_agama",
       "patterns": [
         "Mayoritas agama di Bali itu apa si?",
-        "agama yang banyak ada di Bali itu apa si?"
+        "agama yang banyak ada di Bali itu apa si?",
+        "agama yang banyak di Bali apa?"
       ],
       "responses": [
         "Mayoritas agama yang ada di Bali itu Agama Hindu."
@@ -226,7 +240,8 @@
       "tag": "tradisi_pemeluk",
       "patterns": [
         "Apa saja tradisi para pemeluk agama hindu di Bali?",
-        "kalo tradisi dari pemeluk hindu bali apa?"
+        "kalo tradisi dari pemeluk hindu bali apa?",
+        "tradisi pemeluk hindu bali apa?"
       ],
       "responses": [
         "Tradisinya ada upacara melasti, mecaru atau tawur, nyepi, pengerupukan, ngembak geni"
@@ -236,7 +251,8 @@
       "tag": "pohon_suci",
       "patterns": [
         "Apa nama pohon yang dianggap suci di pura Bali?",
-        "pohon yang suci di pura Bali itu apa?"
+        "pohon yang suci di pura Bali itu apa?",
+        "pohon suci yang ada di pura bali apa?"
       ],
       "responses": [
         "Pohon beringin. Karena akar beringin kokoh, melambangkan keperkasaan, dan daunnya adalah lambang kesucian."
@@ -246,7 +262,8 @@
       "tag": "sembah",
       "patterns": [
         "Apa yang disembah masyarakat hindu di bali?",
-        "yang disembah sama masyarakat hindu Bali itu apa?"
+        "yang disembah sama masyarakat hindu Bali itu apa?",
+        "kalo yang disembah masyarakat bali apa?"
       ],
       "responses": [
         "Umat Hindu melaksanakan persembahyangan memuja Hyang Widhi Wasa dan segala prabhawa-Nya dan Atma Sidha Dewata (roh suci leluhur) di pura"
@@ -256,7 +273,9 @@
       "tag": "penemu",
       "patterns": [
         "Siapa penemu pulau Bali?",
-        "penemu dari pulau Bali itu siapa si?"
+        "penemu dari pulau Bali itu siapa si?",
+        "nama penemu pulau Bali siapa?",
+        "penemu pulau Bali siapa?"
       ],
       "responses": [
         "Penemu pulau Bali itu Cornelis de Houtman."
@@ -266,7 +285,9 @@
       "tag": "rumah_adat",
       "patterns": [
         "Apa nama rumah adat Bali?",
-        "rumah adat yang ada di Bali namanya apa?"
+        "rumah adat yang ada di Bali namanya apa?",
+        "nama rumah adat Bali apa?",
+        "rumah adat Bali apa?"
       ],
       "responses": [
         "Nama rumah adat Bali itu Bale Gede."
@@ -276,7 +297,9 @@
       "tag": "pakaian_adat",
       "patterns": [
         "Apa nama pakaian adat Bali?",
-        "pakaian adat yang dipakai di Bali namanya apa?"
+        "pakaian adat yang dipakai di Bali namanya apa?",
+        "nama pakaian adat Bali apa?",
+        "pakaian adat Bali apa?"
       ],
       "responses": [
         "Nama pakaian adat Bali itu baju adat payas alit."
@@ -286,7 +309,9 @@
       "tag": "senjata_tradisional",
       "patterns": [
         "Apa nama senjata tradisional Bali?",
-        "senjata tradisional yang ada di Bali namanya apa?"
+        "senjata tradisional yang ada di Bali namanya apa?",
+        "nama senjata tradisional Bali apa?",
+        "senjata tradisional Bali apa?"
       ],
       "responses": [
         "Nama senjata tradisional Bali itu Caluk."
@@ -296,7 +321,9 @@
       "tag": "hari_raya",
       "patterns": [
         "Apa nama hari raya agama Hindu di Bali?",
-        "kalo nama hari raya agama hindu bali itu apa?"
+        "kalo nama hari raya agama hindu bali itu apa?",
+        "nama hari raya agama hindu di bali apa?",
+        "hari raya agama hindu di bali apa?"
       ],
       "responses": [
         "Hari Raya Galungan, dirayakan oleh Umat Hindu setiap enam bulan atau 210 hari sesuai perhitungan kalender Bali."
@@ -306,7 +333,9 @@
       "tag": "ucapan",
       "patterns": [
         "bagaimana ucapan salam di Bali?",
-        "cara ngucapin salam di Bali gimana?"
+        "cara ngucapin salam di Bali gimana?",
+        "ngucap salam di bali gimana?",
+        "cara salam di Bali gimana?"
       ],
       "responses": [
         "Pengucapan salam di Bali dapat dengan Om Swastiastu karena kata ini kerap digunakan oleh masyarakat Bali saat bertemu dengan seseorang. Dapat diartikan sebagai kata “Halo” dalam bahasa Indonesia. Kata ini juga selalu digunakan dalam pembukaan acara resmi di Bali."
