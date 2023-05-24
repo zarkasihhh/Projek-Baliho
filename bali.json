@@ -159,7 +159,8 @@
       "patterns": [
         "Daerah mana yang terkenal di Bali?",
         "di Bali daerah yang terkenal dan rame ada dimana?",
-        "Dimana daerah yang terkenal dan populer di Bali?"
+        "Dimana daerah yang terkenal dan populer di Bali?",
+        "daerah yang terkenal di bali?"
       ],
       "responses": [
         "Daerah yang terkenal dan rame dikunjungi wisatawan di Bali itu Denpasar, Ubud, Kuta, Seminyak, Canggu, Nusa Dua."
@@ -171,7 +172,8 @@
         "tempat makan di ubud yang instagramable?",
         "di Bali tempat makan yang bagus ada dimana aja?",
         "rekomendasi tempat makan di Bali?",
-        "tempat makan yang populer di Bali?"
+        "tempat makan yang populer di Bali?",
+        "tempat makan yang bagus di bali?"
       ],
       "responses": [
         "Tempat makan yang bagus di Bali ada Clear Café Ubud, Folk Pool & Garden, kebun bistro, Wanna Jungle Pool & Bar, milk madu."
@@ -183,7 +185,9 @@
         "Dimana tempat menonton tari kecak di Bali?",
         "kalo mau nonton tari kecak dimana ya?",
         "dimana pagelaran tari kecak?",
-        "tempat melihat tari kecak?"
+        "tempat melihat tari kecak?",
+        "dimana kita bisa lihat tari kecak?",
+        "dimana tempat melihat tari kecak?"
       ],
       "responses": [
         "Tari kecak tuh ada beberapa tapi yang rekomendasi ada di Kecak Uluwatu, Kecak Garuda Wisnu Kencana, Kecak Pantai Pandawa, Kecak Pantai Melasti"
@@ -194,7 +198,8 @@
       "patterns": [
         "Mengapa di Bali dikenal sebagai pulau seribu pura?",
         "kok bisa bali disebut pulau seribu pura?",
-        "kenapa pulau bali disebut pulau seribu pura?"
+        "kenapa pulau bali disebut pulau seribu pura?",
+        "kenapa bali disebut pulau seribu pura?"
       ],
       "responses": [
         "Karena Di hampir setiap sudut wilayah terdapat pura peribadatan, baik pura besar yang dipakai sebagai tempat upacara bersama maupun pura kecil di setiap rumah. Oleh karena itu, selain dikenal sebagai Pulau Seribu Pura."
@@ -206,7 +211,8 @@
         "Apa itu upacara keagamaan ngaben?",
         "upacara ngaben itu apa maksudnya?",
         "apa itu ngaben?",
-        "ngaben artinya apa?"
+        "ngaben artinya apa?",
+        "ngaben itu apa?"
       ],
       "responses": [
         "Dalam buku Kebudayaan dan Pariwisata Bali yang ditulis oleh Reni Widiastuti menjelaskan bahwa Ngaben merupakan upacara pembakaran mayat, yang dilakukan oleh umat beragama Hindu."
@@ -229,7 +235,8 @@
       "patterns": [
         "Apa yang Dimaksud dengan Canang Sari?",
         "canang sari itu maksudnya apa?",
-        "yang Dimaksud dengan Canang Sari apa?"
+        "yang Dimaksud dengan Canang Sari apa?",
+        "canang sari itu apa?"
       ],
       "responses": [
         "Canang Sari adalah sebuah bentuk persembahan khas Bali yang biasanya ditemukan di depan rumah, toko, atau tempat-tempat suci. Persembahan ini terdiri dari bahan-bahan alami seperti beras, bunga dan dupa. Nantinya semua itu ditempatkan di atas sebuah wadah kecil yang dibuat dari daun kelapa atau daun pisang"
