@@ -71,11 +71,15 @@
       "patterns": [
         "apa yang menjadi daya tarik daerah Bali?",
         "hal yang menarik dari Bali itu apa?",
-        "yang menarik di bali apa?"
+        "yang menarik di bali apa?",
+        "Museum di Bali yang wajib banget di kunjungi?",
+        "Museum di Bali yang keren?",
+        "Wisata museum terbaik di Bali?"
       ],
       "responses": [
         "faktor daya tarik daerah bali diantaranya, harga produk wisata, budaya dalam berbagai bentuk manifestasinya, keindahan pantai yang beragam, kenyamanan berwisata, citra Bali, keindahan alam, dan keramahan penduduk setempat.",
-        "Bali merupakan tempat tujuan wisata yang banyak diminati wisatawan domestik maupun mancanegara. Keindahan alam, keunikan budaya, keamanan, kenyamanan, keramah-tamahan yang dimiliki Bali merupakan faktor penyebab kenapa orang ingin menghabiskan liburan di Bali. Bali yang dikenal dengan julukan Pulau Dewata dikenal dengan destinasi keindahan pantainya yang menawarkan ragam tempat wisata di Bali yang tak boleh dilewatkan. Mulai dari wisata alam, budaya, kuliner, hingga belanja bisa dilakukan di Pulau Dewata. Segala sudut Pulau Bali bisa dikatakan destinasi wisata karena keindahan dan keramahan warganya. Dalam satu hari, Anda bisa mencicipi kuliner khas, berkunjung ke desa wisata dan museum, menonton pertunjukan tari kecak, belanja di pasar seni, hingga menghabiskan sore di pantai untuk melihat sunset."
+        "Bali merupakan tempat tujuan wisata yang banyak diminati wisatawan domestik maupun mancanegara. Keindahan alam, keunikan budaya, keamanan, kenyamanan, keramah-tamahan yang dimiliki Bali merupakan faktor penyebab kenapa orang ingin menghabiskan liburan di Bali. Bali yang dikenal dengan julukan Pulau Dewata dikenal dengan destinasi keindahan pantainya yang menawarkan ragam tempat wisata di Bali yang tak boleh dilewatkan. Mulai dari wisata alam, budaya, kuliner, hingga belanja bisa dilakukan di Pulau Dewata. Segala sudut Pulau Bali bisa dikatakan destinasi wisata karena keindahan dan keramahan warganya. Dalam satu hari, Anda bisa mencicipi kuliner khas, berkunjung ke desa wisata dan museum, menonton pertunjukan tari kecak, belanja di pasar seni, hingga menghabiskan sore di pantai untuk melihat sunset.",
+        "Museum-museum di Bali yang telah dijadikan daya tarik wisata saat ini yaitu, Museum Bali, Museum Le Mayeur, Museum Lukisan Sidik Jari, Museum Pasifika, Bali Shell Museum, Putrawan Museum of Tribal Art, Museum Subak, Museum Margarana, Museum Situs Purbakala, The Blanco Renaissance Museum, Museum Puri Lukisan, Agung Rai Museum of Art (ARMA), Museum Rudana, Neka Art Museum, Museum Pendet, IB. Marka Museum, Runa Jewelry Museum, D'topeng Kingdom, Museum Semarajaya, Museum Buleleng, Museum Gedong Kirtya, Museum Vulkanologi, Museum Gunarsa, Beratha Museum and Art Gallery, Purbakala Archaelogy Museum, Monumen Perjuangan Rakyat Bali"
       ]
     },
     {
@@ -83,7 +87,10 @@
       "patterns": [
         "Mengapa Bali disebut dengan pulau dewata?",
         "kok bisa bali disebut pulau dewata?",
-        "kenapa bali disebut pulau dewata?"
+        "kenapa bali disebut pulau dewata?",
+        "sejarah bali disebut pulau dewata?",
+        "silsilah bali disebut pulau dewata?",
+        "bali sampai bisa disebut pulau dewata kenapa?"
       ],
       "responses": [
         "Pulau Bali terkenal dengan julukan sebagai Pulau Dewata karena kentalnya budaya Hindu, seperti banyaknya sesaji yang dipersembahkan untuk dewata penjaga di berbagai tempat di Bali."
@@ -94,7 +101,14 @@
       "patterns": [
         "Larangan apa saja jika berada di Bali?",
         "kalo lagi di Bali apa aja si yang gaboleh dilakuin?",
-        "di bali gaboleh ngapain aja?"
+        "di bali gaboleh ngapain aja?",
+        "apa saja larangan saat berlibur di Bali?",
+        "apa larangan saat berlibur di Bali?",
+        "apa larangan saat di Bali?",
+        "apa saja pantangan saat berada di Bali?",
+        "larangan yaang wajib diketahui saat berada di Bali?",
+        "Larangan yang harus diperhatikan saat liburan ke Bali?",
+        "larangan yang perlu diketahui oleh wisatawan ketika di Bali?"
       ],
       "responses": [
         "Berikut larangan-larangan selama di Bali : 1. Menginjak atau melangkahi canang atau sesajen, 2. Memasuki area suci tanpa izin, 3. Berulah di tempat sakral, 4. Menyentuh atau memegang kepala warga Bali, 5. Keluar saat Nyepi, 6. Tidak sopan saat upacara adat, 7. Buang air sembarangan"
@@ -116,7 +130,13 @@
       "patterns": [
         "Apa saja makanan khas dari Bali?",
         "Bali punya makanan khas ga si?",
-        "makanan khas bali apa?"
+        "makanan khas bali apa?",
+        "makanan khas bali?",
+        "makanan yang wajib dicoba saat berlibur ke Bali?",
+        "makanan khas Bali yang enak?",
+        "rekomendasi makanan khas bali kekinian?",
+        "makanan khas bali yang terkenal?",
+        "tempat kuliner makanan khas bali?"
       ],
       "responses": [
         "Makanan khas dari Bali itu ada Ayam Betutu, Sate Lilit, Nasi Jinggo, Nasi Tepeng, Sate Plecing, Babi Guling, Lawar"
@@ -127,7 +147,8 @@
       "patterns": [
         "Apa saja minuman khas dari Bali?",
         "Bali punya minuman khas ga si?",
-        "minuman khas bali apa?"
+        "minuman khas bali apa?",
+        "minuman khas bali?"
       ],
       "responses": [
         "Minuman khas dari Bali itu ada Es kuwut, Tuak manis, Es tambring, Kopi Bali"
