@@ -71,15 +71,11 @@
       "patterns": [
         "apa yang menjadi daya tarik daerah Bali?",
         "hal yang menarik dari Bali itu apa?",
-        "yang menarik di bali apa?",
-        "Museum di Bali yang wajib banget di kunjungi?",
-        "Museum di Bali yang keren?",
-        "Wisata museum terbaik di Bali?"
+        "yang menarik di bali apa?"
       ],
       "responses": [
         "faktor daya tarik daerah bali diantaranya, harga produk wisata, budaya dalam berbagai bentuk manifestasinya, keindahan pantai yang beragam, kenyamanan berwisata, citra Bali, keindahan alam, dan keramahan penduduk setempat.",
-        "Bali merupakan tempat tujuan wisata yang banyak diminati wisatawan domestik maupun mancanegara. Keindahan alam, keunikan budaya, keamanan, kenyamanan, keramah-tamahan yang dimiliki Bali merupakan faktor penyebab kenapa orang ingin menghabiskan liburan di Bali. Bali yang dikenal dengan julukan Pulau Dewata dikenal dengan destinasi keindahan pantainya yang menawarkan ragam tempat wisata di Bali yang tak boleh dilewatkan. Mulai dari wisata alam, budaya, kuliner, hingga belanja bisa dilakukan di Pulau Dewata. Segala sudut Pulau Bali bisa dikatakan destinasi wisata karena keindahan dan keramahan warganya. Dalam satu hari, Anda bisa mencicipi kuliner khas, berkunjung ke desa wisata dan museum, menonton pertunjukan tari kecak, belanja di pasar seni, hingga menghabiskan sore di pantai untuk melihat sunset.",
-        "Museum-museum di Bali yang telah dijadikan daya tarik wisata saat ini yaitu, Museum Bali, Museum Le Mayeur, Museum Lukisan Sidik Jari, Museum Pasifika, Bali Shell Museum, Putrawan Museum of Tribal Art, Museum Subak, Museum Margarana, Museum Situs Purbakala, The Blanco Renaissance Museum, Museum Puri Lukisan, Agung Rai Museum of Art (ARMA), Museum Rudana, Neka Art Museum, Museum Pendet, IB. Marka Museum, Runa Jewelry Museum, D'topeng Kingdom, Museum Semarajaya, Museum Buleleng, Museum Gedong Kirtya, Museum Vulkanologi, Museum Gunarsa, Beratha Museum and Art Gallery, Purbakala Archaelogy Museum, Monumen Perjuangan Rakyat Bali"
+        "Bali merupakan tempat tujuan wisata yang banyak diminati wisatawan domestik maupun mancanegara. Keindahan alam, keunikan budaya, keamanan, kenyamanan, keramah-tamahan yang dimiliki Bali merupakan faktor penyebab kenapa orang ingin menghabiskan liburan di Bali. Bali yang dikenal dengan julukan Pulau Dewata dikenal dengan destinasi keindahan pantainya yang menawarkan ragam tempat wisata di Bali yang tak boleh dilewatkan. Mulai dari wisata alam, budaya, kuliner, hingga belanja bisa dilakukan di Pulau Dewata. Segala sudut Pulau Bali bisa dikatakan destinasi wisata karena keindahan dan keramahan warganya. Dalam satu hari, Anda bisa mencicipi kuliner khas, berkunjung ke desa wisata dan museum, menonton pertunjukan tari kecak, belanja di pasar seni, hingga menghabiskan sore di pantai untuk melihat sunset."
       ]
     },
     {
@@ -94,6 +90,17 @@
       ],
       "responses": [
         "Pulau Bali terkenal dengan julukan sebagai Pulau Dewata karena kentalnya budaya Hindu, seperti banyaknya sesaji yang dipersembahkan untuk dewata penjaga di berbagai tempat di Bali."
+      ]
+    },
+    {
+      "tag": "museum",
+      "patterns": [
+        "Museum di Bali yang wajib banget di kunjungi?",
+        "Museum di Bali yang keren?",
+        "Wisata museum terbaik di Bali?"
+      ],
+      "responses": [
+        "Museum-museum di Bali yang telah dijadikan daya tarik wisata saat ini yaitu, Museum Bali, Museum Le Mayeur, Museum Lukisan Sidik Jari, Museum Pasifika, Bali Shell Museum, Putrawan Museum of Tribal Art, Museum Subak, Museum Margarana, Museum Situs Purbakala, The Blanco Renaissance Museum, Museum Puri Lukisan, Agung Rai Museum of Art (ARMA), Museum Rudana, Neka Art Museum, Museum Pendet, IB. Marka Museum, Runa Jewelry Museum, D'topeng Kingdom, Museum Semarajaya, Museum Buleleng, Museum Gedong Kirtya, Museum Vulkanologi, Museum Gunarsa, Beratha Museum and Art Gallery, Purbakala Archaelogy Museum, Monumen Perjuangan Rakyat Bali"
       ]
     },
     {
@@ -247,7 +254,9 @@
       "patterns": [
         "Apa yang Dimaksud dengan Agama hindu Bali?",
         "hindu bali itu apa?",
-        "apa si itu hindu bali?"
+        "apa si itu hindu bali?",
+        "apa hindu bali?",
+        "hindu bali apa?"
       ],
       "responses": [
         "Agama Hindu Bali merupakan agama yang berkembang di Bali, dan merupakan perpaduan dari kepercayaan Hindu asli India dengan agama dan kepercayaan setempat di Bali. Ada beberapa unsur yang membedakan Agama Hindu Bali dengan Hindu di India, yaitu penekanan kepercayaan kepada roh leluhur."
@@ -258,7 +267,9 @@
       "patterns": [
         "Mayoritas agama di Bali itu apa si?",
         "agama yang banyak ada di Bali itu apa si?",
-        "agama yang banyak di Bali apa?"
+        "agama yang banyak di Bali apa?",
+        "agama yang banyak di bali?",
+        "mayoritas agama di bali?"
       ],
       "responses": [
         "Mayoritas agama yang ada di Bali itu Agama Hindu."
@@ -338,7 +349,7 @@
         "rumah adat Bali apa?",
         "rumah adat Bali?",
         "rumah adat Bali itu apa?",
-        "apa si nama rumah adat di bali?"
+        "apa si nama rumah adat di bali?",
         "rumah ada bali namanya?",
         "nama rumah adat Bali?"
       ],
