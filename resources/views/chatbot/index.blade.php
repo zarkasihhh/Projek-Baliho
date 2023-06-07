@@ -34,7 +34,7 @@
 
       <form class="msger-inputarea">
         <input type="text" class="msger-input" id="textInput" placeholder="Masukkan pesanmu disini...">
-        <button type="submit" class="msger-send-btn">Kirim</button>
+        <button type="submit" class="msger-send-btn">KIRIM</i></button>
       </form>
     </div>
   </div>

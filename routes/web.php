@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ChatBotController;
+use App\Http\Controllers\BotManController;
 
 /*
 |--------------------------------------------------------------------------
@@ -34,3 +35,5 @@ Route::get('/aibot', function () {
 });
 Route::post('send',[ChatbotController::class, 'sendChat']);
 // Route::get('/chatbot', 'ChatbotController@index');
+
+Route::match(['get','post'],'/botman',[BotManController::class,'handle']);
