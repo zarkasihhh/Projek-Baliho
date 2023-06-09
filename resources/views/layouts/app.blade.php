@@ -22,16 +22,17 @@
    <!-- fevicon -->
    <link rel="icon" href="dist/images/fevicon.png" type="image/gif" />
    <!-- Scrollbar Custom CSS -->
-   <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+   <link rel="stylesheet" href="dist/css/jquery.mCustomScrollbar.min.css">
    <!-- Tweaks for older IEs-->
    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
    <!-- fonts -->
    <link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Righteous&display=swap" rel="stylesheet">
    <!-- owl stylesheets -->
-   <link rel="stylesheet" href="css/owl.carousel.min.css">
-   <link rel="stylesheet" href="css/owl.theme.default.min.css">
+   <link rel="stylesheet" href="dist/css/owl.carousel.min.css">
+   <link rel="stylesheet" href="dist/css/owl.theme.default.min.css">
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
-
+   {{-- <link rel="stylesheet" href="dist/botman/style.css"> --}}
+   <link rel="stylesheet" href="{{ asset('dist/css/botman.css') }}">
    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
    <meta name="csrf-token" content="{{ csrf_token() }}">
 </head>
@@ -50,7 +51,8 @@
   <script src="https://code.jquery.com/jquery-3.7.0.js" integrity="sha256-JlqSTELeR4TLqP0OG9dxM7yDPqX1ox/HfgiSLBj8+kM=" crossorigin="anonymous"></script>
   <script src="dist/js/all.js"></script>
   {{-- <script id="botmanWidget" src='https://cdn.jsdelivr.net/npm/botman-web-widget@0/build/js/chat.js'></script> --}}
-  <script src='https://cdn.jsdelivr.net/npm/botman-web-widget@0/build/js/widget.js'></script>
+  {{-- <script src='https://cdn.jsdelivr.net/npm/botman-web-widget@0/build/js/widget.js'></script> --}}
+  <script src="{{ asset('dist/js/botman.js') }}"></script>
   <script>
     const msgerForm = get(".msger-inputarea");
     const msgerInput = get(".msger-input");
@@ -116,12 +118,161 @@
     }
   </script>
   <script>
-    var botmanWidget = {
-      title:'BALIHO',
-      aboutLink:'https://www.instagram.com/zarkasihhh/',
-      introMessage:'Selamat Datang DIBALIHO, Ada yang bisa Dibantu?',
-      aboutText:'Powered By Zarkasih'
-    };
+      var botmanWidget = {
+          frameEndpoint: '/botman/chat', // Adjust the endpoint URL if needed
+          chatServer: '/botman', // Adjust the route URL if needed
+          title: 'Chat with Bot', // Adjust the widget title
+          introMessage: 'Hello! How can I assist you today?', // Adjust the intro message
+          mainColor: '#456', // Adjust the color scheme
+          bubbleBackground: '#456', // Adjust the color scheme
+          aboutText: 'Powered by BotMan', // Adjust the about text
+          bubbleAvatarUrl: 'bot-avatar.png', // Adjust the avatar image URL if needed
+      };
   </script>
+
+<script>
+  $(document).ready(function() {
+    var userName = ''; // Variable to store the user name
+    var timestamp = new Date().toLocaleTimeString();
+    var BOT_NAME = "CubatBot";
+    var USER_IMG = "/dist/images/user.png";
+    var BOT_IMG = "/dist/images/bot1.jpg";
+
+    $.ajaxSetup({
+        headers: {
+            'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+        }
+    });
+
+    function askName() {
+
+    $('#content-box').append(`
+                        <div class="msg left-msg">
+                            <div class="msg-img" style="background-image: url(${BOT_IMG})"></div>
+                            <div class="msg-bubble float-right">
+                                <div class="msg-info">
+                                    <div class="msg-info-name">${BOT_NAME}</div>
+                                    <div class="msg-info-time">${timestamp}</div>
+                                </div>
+                                <div class="msg-text">👋 Halo Welcome to CubatBot, Nama Kamu Siapa?</div>
+                            </div>
+                        </div>`);
+
+    $('#button-submit').one('click', submitName);
+
+    var flag = true;
+
+    $('#input').on('keypress', function(e) {
+        if (flag && e.which === 13) {
+            submitName();
+            flag = false; // Set the flag to false to ignore subsequent keypress events
+        }
+    });
+
+        function submitName() {
+            var $value = $('#input').val().trim();
+                $value = $value.replace(/^\w/, function(char) {
+                    return char.toUpperCase();
+                });
+
+            $('#content-box').append(`
+                <div class="msg right-msg">
+                    <div class="msg-img" style="background-image: url(${USER_IMG})"></div>
+                    <div class="msg-bubble float-right">
+                        <div class="msg-info">
+                            <div class="msg-info-name">${$value}</div>
+                            <div class="msg-info-time">${timestamp}</div>
+                        </div>
+                        <div class="msg-text">${$value}</div>
+                    </div>
+                </div>`);
+
+            if ($value !== '') {
+                userName = $value;
+
+                $('#content-box').append(`
+                        <div class="msg left-msg">
+                            <div class="msg-img" style="background-image: url(${BOT_IMG})"></div>
+                            <div class="msg-bubble float-right">
+                                <div class="msg-info">
+                                    <div class="msg-info-name">${BOT_NAME}</div>
+                                    <div class="msg-info-time">${timestamp}</div>
+                                </div>
+                                <div class="msg-text">Nice To meet You ${userName}, Ada yang bisa saya bantu?</div>
+                            </div>
+                        </div>`);
+
+                $('#input').val(''); // Clear the input field
+
+                // Scroll to the bottom of the content
+                var $contentBox = $('#content-box');
+                $contentBox.scrollTop($contentBox.prop('scrollHeight'));
+
+                // Run the controller after receiving the user's name
+                runController();
+            }
+        }
+    }
+
+    function runController() {
+        $('#button-submit').on('click', function() {
+            submitForm();
+        });
+
+        $('#input').on('keypress', function(e) {
+            if (e.which === 13) { // Enter key pressed
+                submitForm();
+            }
+        });
+
+        function submitForm() {
+            var $value = $('#input').val().trim();
+
+            $('#content-box').append(`
+                <div class="msg right-msg">
+                    <div class="msg-img" style="background-image: url(${USER_IMG})"></div>
+                    <div class="msg-bubble float-right">
+                        <div class="msg-info">
+                            <div class="msg-info-name">${userName}</div>
+                            <div class="msg-info-time">${timestamp}</div>
+                        </div>
+                        <div class="msg-text">${$value}</div>
+                    </div>
+                </div>`);
+
+            // AJAX request and bot response
+            $.ajax({
+                type: 'post',
+                url: '{{url('send')}}',
+                data: {
+                    'input': $value
+                },
+                success: function(data) {
+                    $('#content-box').append(`
+                        <div class="msg left-msg">
+                            <div class="msg-img" style="background-image: url(${BOT_IMG})"></div>
+                            <div class="msg-bubble float-right">
+                                <div class="msg-info">
+                                    <div class="msg-info-name">${BOT_NAME}</div>
+                                    <div class="msg-info-time">${timestamp}</div>
+                                </div>
+                                <div class="msg-text">${data}</div>
+                            </div>
+                        </div>`);
+
+                    $('#input').val(''); // Clear the input field
+
+                    // Scroll to the bottom of the content
+                        var $contentBox = $('#content-box');
+                        $contentBox.scrollTop($contentBox.prop('scrollHeight'));
+                    }
+                });
+            }
+        }
+
+        askName();
+    });
+
+</script>
 </body>
 </html>

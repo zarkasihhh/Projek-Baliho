@@ -1,0 +1,419 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hallo",
+        "hai",
+        "halo",
+        "hei",
+        "hi",
+        "pagi",
+        "siang",
+        "sore",
+        "malam"
+      ],
+      "responses": [
+        "Hai! CuBatbot di sini. Mau tau informasi tentang apa nih?",
+        "Halo! Aku CuBatbot, salam kenal ya! Mau tau tentang Bali, kan?",
+        "Helo! Dengan CuBatbot disini. Lagi kepo sama Bali ya?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Dah",
+        "Dadah",
+        "Bye",
+        "Byee",
+        "Good bye",
+        "Selamat tinggal",
+        "Sampai jumpa",
+        "Bai",
+        "See you"
+      ],
+      "responses": [
+        "Bye!",
+        "Dadahh!",
+        "Good bye!",
+        "Dahh, semoga harimu menegangkan yaa!",
+        "Sampai jumpa lagi!",
+        "See u! Senang bisa membantu"
+      ]
+    },
+    {
+      "tag": "terimakasih",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Terima kasih",
+        "Makasih",
+        "Terima kasih banyak"
+      ],
+      "responses": [
+        "Macamaa :)"
+      ]
+    },
+    {
+      "tag": "ibukota",
+      "patterns": [
+        "Apa Ibukota Provinsi Bali?",
+        "Ibukota Provinsi Bali itu apa sih?",
+        "apa ibukota bali?",
+        "ibukota bali apa?"
+      ],
+      "responses": [
+        "Ibukota dari Provinsi Bali itu Denpasar."
+      ]
+    },
+    {
+      "tag": "daya_tarik",
+      "patterns": [
+        "apa yang menjadi daya tarik daerah Bali?",
+        "hal yang menarik dari Bali itu apa?",
+        "yang menarik di bali apa?"
+      ],
+      "responses": [
+        "faktor daya tarik daerah bali diantaranya, harga produk wisata, budaya dalam berbagai bentuk manifestasinya, keindahan pantai yang beragam, kenyamanan berwisata, citra Bali, keindahan alam, dan keramahan penduduk setempat.",
+        "Bali merupakan tempat tujuan wisata yang banyak diminati wisatawan domestik maupun mancanegara. Keindahan alam, keunikan budaya, keamanan, kenyamanan, keramah-tamahan yang dimiliki Bali merupakan faktor penyebab kenapa orang ingin menghabiskan liburan di Bali. Bali yang dikenal dengan julukan Pulau Dewata dikenal dengan destinasi keindahan pantainya yang menawarkan ragam tempat wisata di Bali yang tak boleh dilewatkan. Mulai dari wisata alam, budaya, kuliner, hingga belanja bisa dilakukan di Pulau Dewata. Segala sudut Pulau Bali bisa dikatakan destinasi wisata karena keindahan dan keramahan warganya. Dalam satu hari, Anda bisa mencicipi kuliner khas, berkunjung ke desa wisata dan museum, menonton pertunjukan tari kecak, belanja di pasar seni, hingga menghabiskan sore di pantai untuk melihat sunset."
+      ]
+    },
+    {
+      "tag": "bali_dewata",
+      "patterns": [
+        "Mengapa Bali disebut dengan pulau dewata?",
+        "kok bisa bali disebut pulau dewata?",
+        "kenapa bali disebut pulau dewata?",
+        "sejarah bali disebut pulau dewata?",
+        "silsilah bali disebut pulau dewata?",
+        "bali sampai bisa disebut pulau dewata kenapa?"
+      ],
+      "responses": [
+        "Pulau Bali terkenal dengan julukan sebagai Pulau Dewata karena kentalnya budaya Hindu, seperti banyaknya sesaji yang dipersembahkan untuk dewata penjaga di berbagai tempat di Bali."
+      ]
+    },
+    {
+      "tag": "museum",
+      "patterns": [
+        "Museum di Bali yang wajib banget di kunjungi?",
+        "Museum di Bali yang keren?",
+        "Wisata museum terbaik di Bali?"
+      ],
+      "responses": [
+        "Museum-museum di Bali yang telah dijadikan daya tarik wisata saat ini yaitu, Museum Bali, Museum Le Mayeur, Museum Lukisan Sidik Jari, Museum Pasifika, Bali Shell Museum, Putrawan Museum of Tribal Art, Museum Subak, Museum Margarana, Museum Situs Purbakala, The Blanco Renaissance Museum, Museum Puri Lukisan, Agung Rai Museum of Art (ARMA), Museum Rudana, Neka Art Museum, Museum Pendet, IB. Marka Museum, Runa Jewelry Museum, D'topeng Kingdom, Museum Semarajaya, Museum Buleleng, Museum Gedong Kirtya, Museum Vulkanologi, Museum Gunarsa, Beratha Museum and Art Gallery, Purbakala Archaelogy Museum, Monumen Perjuangan Rakyat Bali"
+      ]
+    },
+    {
+      "tag": "larangan",
+      "patterns": [
+        "larangan di bali?",
+        "Larangan apa saja jika berada di Bali?",
+        "kalo lagi di Bali apa aja si yang gaboleh dilakuin?",
+        "di bali gaboleh ngapain aja?",
+        "apa saja larangan saat berlibur di Bali?",
+        "apa larangan saat berlibur di Bali?",
+        "apa larangan saat di Bali?",
+        "apa saja pantangan saat berada di Bali?",
+        "larangan yaang wajib diketahui saat berada di Bali?",
+        "Larangan yang harus diperhatikan saat liburan ke Bali?",
+        "larangan yang perlu diketahui oleh wisatawan ketika di Bali?"
+      ],
+      "responses": [
+        "Berikut larangan-larangan selama di Bali : 1. Menginjak atau melangkahi canang atau sesajen, 2. Memasuki area suci tanpa izin, 3. Berulah di tempat sakral, 4. Menyentuh atau memegang kepala warga Bali, 5. Keluar saat Nyepi, 6. Tidak sopan saat upacara adat, 7. Buang air sembarangan"
+      ]
+    },
+    {
+      "tag": "wisata",
+      "patterns": [
+        "Wisata apa yang populer di Bali?",
+        "wisata yang bagus di Bali apa aja?",
+        "wisata di bali yang bagus apa?"
+      ],
+      "responses": [
+        "Objek wisata yang populer di Bali :1. Pura Tanah Lot, 2. Bali Zoo, 3. Pantai Kuta, 4. Pura Ulun Danu Beratan Bedugul, 5. Pantai Melasti"
+      ]
+    },
+    {
+      "tag": "makanan_khas",
+      "patterns": [
+        "Apa saja makanan khas dari Bali?",
+        "Bali punya makanan khas ga si?",
+        "makanan khas bali apa?",
+        "makanan khas bali?",
+        "makanan yang wajib dicoba saat berlibur ke Bali?",
+        "makanan khas Bali yang enak?",
+        "rekomendasi makanan khas bali kekinian?",
+        "makanan khas bali yang terkenal?",
+        "tempat kuliner makanan khas bali?"
+      ],
+      "responses": [
+        "Makanan khas dari Bali itu ada Ayam Betutu, Sate Lilit, Nasi Jinggo, Nasi Tepeng, Sate Plecing, Babi Guling, Lawar"
+      ]
+    },
+    {
+      "tag": "minuman_khas",
+      "patterns": [
+        "Apa saja minuman khas dari Bali?",
+        "Bali punya minuman khas ga si?",
+        "minuman khas bali apa?",
+        "minuman khas bali?"
+      ],
+      "responses": [
+        "Minuman khas dari Bali itu ada Es kuwut, Tuak manis, Es tambring, Kopi Bali"
+      ]
+    },
+    {
+      "tag": "daerah_terkenal",
+      "patterns": [
+        "Daerah mana yang terkenal di Bali?",
+        "di Bali daerah yang terkenal dan rame ada dimana?",
+        "Dimana daerah yang terkenal dan populer di Bali?",
+        "daerah yang terkenal di bali?"
+      ],
+      "responses": [
+        "Daerah yang terkenal dan rame dikunjungi wisatawan di Bali itu Denpasar, Ubud, Kuta, Seminyak, Canggu, Nusa Dua."
+      ]
+    },
+    {
+      "tag": "tempat_makan",
+      "patterns": [
+        "tempat makan di ubud yang instagramable?",
+        "di Bali tempat makan yang bagus ada dimana aja?",
+        "rekomendasi tempat makan di Bali?",
+        "tempat makan yang populer di Bali?",
+        "tempat makan yang bagus di bali?"
+      ],
+      "responses": [
+        "Tempat makan yang bagus di Bali ada Clear Café Ubud, Folk Pool & Garden, kebun bistro, Wanna Jungle Pool & Bar, milk madu."
+      ]
+    },
+    {
+      "tag": "tari_kecak",
+      "patterns": [
+        "Dimana tempat menonton tari kecak di Bali?",
+        "kalo mau nonton tari kecak dimana ya?",
+        "dimana pagelaran tari kecak?",
+        "tempat melihat tari kecak?",
+        "dimana kita bisa lihat tari kecak?",
+        "dimana tempat melihat tari kecak?"
+      ],
+      "responses": [
+        "Tari kecak tuh ada beberapa tapi yang rekomendasi ada di Kecak Uluwatu, Kecak Garuda Wisnu Kencana, Kecak Pantai Pandawa, Kecak Pantai Melasti"
+      ]
+    },
+    {
+      "tag": "seribu_pura",
+      "patterns": [
+        "Mengapa di Bali dikenal sebagai pulau seribu pura?",
+        "kok bisa bali disebut pulau seribu pura?",
+        "kenapa pulau bali disebut pulau seribu pura?",
+        "kenapa bali disebut pulau seribu pura?"
+      ],
+      "responses": [
+        "Karena Di hampir setiap sudut wilayah terdapat pura peribadatan, baik pura besar yang dipakai sebagai tempat upacara bersama maupun pura kecil di setiap rumah. Oleh karena itu, selain dikenal sebagai Pulau Seribu Pura."
+      ]
+    },
+    {
+      "tag": "ngaben",
+      "patterns": [
+        "Apa itu upacara keagamaan ngaben?",
+        "upacara ngaben itu apa maksudnya?",
+        "apa itu ngaben?",
+        "ngaben artinya apa?",
+        "ngaben itu apa?"
+      ],
+      "responses": [
+        "Dalam buku Kebudayaan dan Pariwisata Bali yang ditulis oleh Reni Widiastuti menjelaskan bahwa Ngaben merupakan upacara pembakaran mayat, yang dilakukan oleh umat beragama Hindu."
+      ]
+    },
+    {
+      "tag": "tujuan_ngaben",
+      "patterns": [
+        "Apa tujuan dari upacara keagamaan ngaben?",
+        "kalo tujuan dari upacara ngaben itu apa?",
+        "kenapa dilakukan ngaben?",
+        "apa tujuan dilakukan ngaben?"
+      ],
+      "responses": [
+        "Tujuan upacara ngaben adalah untuk mensucikan roh umat Hindu yang sudah meninggal dunia dan mempercepat kembalinya jasad ke alam asalnya."
+      ]
+    },
+    {
+      "tag": "canang_sari",
+      "patterns": [
+        "Apa yang Dimaksud dengan Canang Sari?",
+        "canang sari itu maksudnya apa?",
+        "yang Dimaksud dengan Canang Sari apa?",
+        "canang sari itu apa?"
+      ],
+      "responses": [
+        "Canang Sari adalah sebuah bentuk persembahan khas Bali yang biasanya ditemukan di depan rumah, toko, atau tempat-tempat suci. Persembahan ini terdiri dari bahan-bahan alami seperti beras, bunga dan dupa. Nantinya semua itu ditempatkan di atas sebuah wadah kecil yang dibuat dari daun kelapa atau daun pisang"
+      ]
+    },
+    {
+      "tag": "hindu_bali",
+      "patterns": [
+        "Apa yang Dimaksud dengan Agama hindu Bali?",
+        "hindu bali itu apa?",
+        "apa si itu hindu bali?",
+        "apa hindu bali?",
+        "hindu bali apa?"
+      ],
+      "responses": [
+        "Agama Hindu Bali merupakan agama yang berkembang di Bali, dan merupakan perpaduan dari kepercayaan Hindu asli India dengan agama dan kepercayaan setempat di Bali. Ada beberapa unsur yang membedakan Agama Hindu Bali dengan Hindu di India, yaitu penekanan kepercayaan kepada roh leluhur."
+      ]
+    },
+    {
+      "tag": "mayoritas_agama",
+      "patterns": [
+        "Mayoritas agama di Bali itu apa si?",
+        "agama yang banyak ada di Bali itu apa si?",
+        "agama yang banyak di Bali apa?",
+        "agama yang banyak di bali?",
+        "mayoritas agama di bali?"
+      ],
+      "responses": [
+        "Mayoritas agama yang ada di Bali itu Agama Hindu."
+      ]
+    },
+    {
+      "tag": "tradisi_pemeluk",
+      "patterns": [
+        "Apa saja tradisi para pemeluk agama hindu di Bali?",
+        "kalo tradisi dari pemeluk hindu bali apa?",
+        "tradisi pemeluk hindu bali apa?",
+        "apa saja tradisi agama di bali?",
+        "apa saja tradisi agama hindu?",
+        "tradisi apa saja yang ada di bali?",
+        "nama tradisi agama di bali?",
+        "apa saja upacara tradisi agama hindu bali?",
+        "tradisi agama hindu di bali apa?"
+      ],
+      "responses": [
+        "Tradisinya ada upacara melasti, mecaru atau tawur, nyepi, pengerupukan, ngembak geni"
+      ]
+    },
+    {
+      "tag": "pohon_suci",
+      "patterns": [
+        "Apa nama pohon yang dianggap suci di pura Bali?",
+        "pohon yang suci di pura Bali itu apa?",
+        "pohon suci yang ada di pura bali apa?",
+        "alasan pohon beringin dijadikan pohon suci di bali?",
+        "nama pohon suci di bali apa?",
+        "pohon suci di bali bernama?",
+        "nama pohon suci di bali?",
+        "apa nama pohon suci di bali?"
+      ],
+      "responses": [
+        "Pohon beringin. Karena akar beringin kokoh, melambangkan keperkasaan, dan daunnya adalah lambang kesucian."
+      ]
+    },
+    {
+      "tag": "sembah",
+      "patterns": [
+        "Apa yang disembah masyarakat hindu di bali?",
+        "yang disembah sama masyarakat hindu Bali itu apa?",
+        "kalo yang disembah masyarakat bali apa?",
+        "masyarakat bali menyembah siapa?",
+        "kepada siapa umat hindu melakukan persembahan memuja?",
+        "siapa yang disembah agama hindu?",
+        "orang bali menyembah siapa?",
+        "apa yang di sembah agama hindu bali?",
+        "siapa yang disembah oleh masyarakat bali?"
+      ],
+      "responses": [
+        "Umat Hindu melaksanakan persembahyangan memuja Hyang Widhi Wasa dan segala prabhawa-Nya dan Atma Sidha Dewata (roh suci leluhur) di pura"
+      ]
+    },
+    {
+      "tag": "penemu",
+      "patterns": [
+        "Siapa penemu pulau Bali?",
+        "penemu dari pulau Bali itu siapa si?",
+        "nama penemu pulau Bali siapa?",
+        "penemu pulau Bali siapa?",
+        "siapa penemu bali?",
+        "nama lengkap penemu pulau bali?",
+        "penemu pulau bali?"
+      ],
+      "responses": [
+        "Penemu pulau Bali itu Cornelis de Houtman."
+      ]
+    },
+    {
+      "tag": "rumah_adat",
+      "patterns": [
+        "Apa nama rumah adat Bali?",
+        "rumah adat yang ada di Bali namanya apa?",
+        "nama rumah adat Bali apa?",
+        "rumah adat Bali apa?",
+        "rumah adat Bali?",
+        "rumah adat Bali itu apa?",
+        "apa si nama rumah adat di bali?",
+        "rumah ada bali namanya?",
+        "nama rumah adat Bali?"
+      ],
+      "responses": [
+        "Nama rumah adat Bali itu Bale Gede."
+      ]
+    },
+    {
+      "tag": "pakaian_adat",
+      "patterns": [
+        "Apa nama pakaian adat Bali?",
+        "pakaian adat yang dipakai di Bali namanya apa?",
+        "nama pakaian adat Bali apa?",
+        "pakaian adat Bali apa?",
+        "pakaian adat Bali?",
+        "pakaian adat Bali itu apa?"
+      ],
+      "responses": [
+        "Nama pakaian adat Bali itu baju adat payas alit."
+      ]
+    },
+    {
+      "tag": "senjata_tradisional",
+      "patterns": [
+        "Apa nama senjata tradisional Bali?",
+        "senjata tradisional yang ada di Bali namanya apa?",
+        "nama senjata tradisional Bali apa?",
+        "senjata tradisional Bali apa?",
+        "senjata tradisional Bali?",
+        "senjata tradisional Bali itu apa?"
+      ],
+      "responses": [
+        "Nama senjata tradisional Bali itu Caluk."
+      ]
+    },
+    {
+      "tag": "hari_raya",
+      "patterns": [
+        "Apa nama hari raya agama Hindu di Bali?",
+        "kalo nama hari raya agama hindu bali itu apa?",
+        "nama hari raya agama hindu di bali apa?",
+        "hari raya agama hindu di bali apa?",
+        "hari raya agama hindu bali?",
+        "hari raya agama hindu di bali itu apa?"
+      ],
+      "responses": [
+        "Hari Raya Galungan, dirayakan oleh Umat Hindu setiap enam bulan atau 210 hari sesuai perhitungan kalender Bali."
+      ]
+    },
+    {
+      "tag": "ucapan",
+      "patterns": [
+        "bagaimana ucapan salam di Bali?",
+        "cara ngucapin salam di Bali gimana?",
+        "ngucap salam di bali gimana?",
+        "cara salam di Bali gimana?",
+        "cara ucap salam di Bali gimana?",
+        "gimana cara salam di Bali?",
+        "gimana cara ucap salam di Bali?"
+      ],
+      "responses": [
+        "Pengucapan salam di Bali dapat dengan Om Swastiastu karena kata ini kerap digunakan oleh masyarakat Bali saat bertemu dengan seseorang. Dapat diartikan sebagai kata “Halo” dalam bahasa Indonesia. Kata ini juga selalu digunakan dalam pembukaan acara resmi di Bali."
+      ]
+    }
+  ]
+}

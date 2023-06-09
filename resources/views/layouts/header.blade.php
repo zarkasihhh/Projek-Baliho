@@ -3,7 +3,7 @@
        <div class="mobile_menu">
           <nav class="navbar navbar-expand-lg navbar-light bg-light">
              <div class="logo_mobile">
-                <a href="index.html">
+                <a href="/">
                     <div class="col-md-6 padding_right_0">
                         <img src="dist/images/baliho-logo.png" alt="Logo" style="width: 100%;">
                      </div>
@@ -16,7 +16,7 @@
              <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                    <li class="nav-item">
-                      <a class="nav-link" href="index.html">Home</a>
+                      <a class="nav-link" href="/">Home</a>
                    </li>
                    <li class="nav-item">
                       <a href="/about">About</a>
